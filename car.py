@@ -1,5 +1,4 @@
 class car:
-    # school="Akirachix"
     def __init__(self,color,make,model,registration,) :
         self.color=color
         self.make=make

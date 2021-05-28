@@ -8,4 +8,4 @@ class Dog:
     def eat(self):
         pant="hahahaaha"
         bark="bwa bwa bwa"
-        return "A {} dog likes {} and it bark like this : {}.".format(bingo,bark,pant)
+        return "A {} dog likes {} and it bark like this : {}.".format(pant,bark)
